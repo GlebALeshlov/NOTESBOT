@@ -78,7 +78,7 @@ internal class Program
                 await client.SendMessage(chatId, i + " " + note[i].Message);
                 a++;
             }
-            
+            //smth
             for (int i = 0; i < note.Count; i++)
             {
 
