@@ -58,7 +58,7 @@ internal class Program
 
             await client.SendMessage(chatId, helpText);
             return;
-
+        }
 
             if (messageText.StartsWith("/add"))
             {
@@ -190,7 +190,7 @@ internal class Program
             }
         }
     }
-}
+
     public class Note
     {
         public int Id { get; set; }
