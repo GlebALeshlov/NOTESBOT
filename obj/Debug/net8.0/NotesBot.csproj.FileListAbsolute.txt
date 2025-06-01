@@ -122,3 +122,4 @@
 /Users/glebaleskov/Downloads/NotesBot/obj/Debug/net8.0/NotesBot.pdb
 /Users/glebaleskov/Downloads/NotesBot/obj/Debug/net8.0/NotesBot.genruntimeconfig.cache
 /Users/glebaleskov/Downloads/NotesBot/obj/Debug/net8.0/ref/NotesBot.dll
+/Users/glebaleskov/Downloads/NotesBot/obj/Debug/net8.0/NotesBot.sourcelink.json
